@@ -9,7 +9,7 @@ HEADERS = {
     "Authorization": "Bearer YOUR_API_KEY_HERE"
 }
 
-# List of 100 unique questions
+# List of 1000 unique questions
 questions = [
     
     "What's the best way to learn programming?",
